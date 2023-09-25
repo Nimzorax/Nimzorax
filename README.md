@@ -1,6 +1,7 @@
 # Hello World ! 👋
 
 ## About Me
+- ❤️ I love Violin, Saxophone, Free running, Programming, Minecraft, Chess and Science.
 - 🔭 I’m currently working on a chat room application.
 - 🌱 I’m currently learning Front-End developpement, Java and Minecraft Plugins.
 - 📫 How to reach me: Discord: nimzorax#0

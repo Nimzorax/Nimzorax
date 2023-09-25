@@ -9,4 +9,4 @@
 - 🕸️ Website: https://nimzorax.github.io
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=python,linux,git,arduino,html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,linux,git,arduino,html,css,js,ts&theme=dracula&perline=4)](https://skillicons.dev)

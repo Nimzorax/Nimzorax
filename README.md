@@ -1,12 +1,12 @@
 # Hello World ! 👋
 
 ## About Me
-- ❤️ I love Violin, Saxophone, Free running, Programming, Minecraft, Chess and Science.
-- 🔭 I’m currently working on a chat room application.
-- 🌱 I’m currently learning Front-End developpement, Java and Minecraft Plugins.
+- ❤️ I love Violin, Saxophone, Free running, Programming, Chess and Science.
+- 🔭 I’m currently working nothing interesting.
+- 🌱 I’m currently learning Python Game Developpement and Java.
 - 📫 How to reach me: Discord: nimzorax, Mail: nimzorax@protonmail.com
 - 😄 Pronouns: Call me Nimzo if you like.
 - 🕸️ Website: https://nimzorax.github.io
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=python,linux,git,arduino,html,css,js,ts,java&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,linux,git,html,css,java&theme=dark&perline=5)](https://skillicons.dev)
